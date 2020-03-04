@@ -1,0 +1,43 @@
+body {
+  background-color: lightgrey;
+}
+
+#main-body {
+  text-align: center;
+
+  /* height: 1150px;
+  width: 1140px; */
+}
+#tribute-info {
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul {
+  list-style-position: inside;
+  padding-left: 0;
+  padding-top: 20px;
+  margin: 10px;
+  text-align: left;
+  max-width: 35%;
+  margin: auto;
+  text-decoration: ;
+}
+
+li {
+  margin: 10px;
+}
+
+/* #img-div {
+ background-color: white;
+  margin-left: 350px;
+  margin-right: 350px;
+} */
